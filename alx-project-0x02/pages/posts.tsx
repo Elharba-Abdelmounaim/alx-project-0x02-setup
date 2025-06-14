@@ -1,10 +1,10 @@
 import Header from '@/components/layout/Header';
 
-export default function About() {
+export default function Posts() {
   return (
     <>
       <Header />
-      <h1>About</h1>
+      <h1>Posts</h1>
     </>
   );
 }
