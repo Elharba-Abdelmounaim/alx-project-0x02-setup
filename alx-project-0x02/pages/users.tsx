@@ -1,6 +1,6 @@
 // pages/users.tsx
 import React from 'react';
-import UserCard from '../components/common/UserCard';
+import UserCard from '@/components/common/UserCard';
 import { UserProps } from '@/interfaces';
 
 interface UsersPageProps {
